@@ -1,4 +1,4 @@
-# lecture-dp.monorepo — disposable test double
+# test-lecture-dp — disposable test double
 
 > **This is not a real lecture repository.** It is a temporary, disposable
 > **test double** of [QuantEcon/lecture-dp](https://github.com/QuantEcon/lecture-dp):
@@ -31,7 +31,9 @@ somewhere safe to happen.
 
 ## Lifecycle
 
-Created 2026-07-09 for the monorepo's M2 development phase. Its role as a sync
+Created 2026-07-09 for the monorepo's M2 development phase, as
+`lecture-dp.monorepo`; renamed `test-lecture-dp` on 2026-11-20 under QEP-3
+(#2). Its role as a sync
 source ended on 2026-11-03, when the monorepo switched to the real
 `lecture-dp`. The repository stays as the rehearsal target, and is retired by
 the cutover of `dp` (QuantEcon/project-monorepo#85), not before.
